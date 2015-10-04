@@ -64,7 +64,7 @@ for result in q.execute(model):
   print "{"
   for k in result:
     print "  "+k+" = "+str(result[k])
-  print "}"
+  print "}"c
 
 print "Writing model to test-out.rdf as rdf/xml"
 
