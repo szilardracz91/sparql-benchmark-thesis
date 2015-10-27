@@ -1,0 +1,51 @@
+/usr/bin/python2.7 /home/szilard/Szakdolgozat/Redland_bindings/redland-bindings-1.0.17.1/python/benchmark_redland.py
+Parsing URI (file) ../models/railway-repair-1-inferred.ttl
+Query for ConnectedSegments in ../models/railway-repair-1-inferred.ttl
+Duration for this query:  11.2626600266 seconds
+
+Query for PosLength in ../models/railway-repair-1-inferred.ttl
+Duration for this query:  0.00590801239014 seconds
+
+Query for RouteSensor in ../models/railway-repair-1-inferred.ttl
+Duration for this query:  2.41522216797 seconds
+
+Query for SemaphoreNeighbor in ../models/railway-repair-1-inferred.ttl
+Duration for this query:  86.6403160095 seconds
+
+Query for SwitchSensor in ../models/railway-repair-1-inferred.ttl
+Duration for this query:  0.0810549259186 seconds
+
+Query for SwitchSet in ../models/railway-repair-1-inferred.ttl
+Duration for this query:  1.79364013672 seconds
+
+Parsing URI (file) ../models/railway-repair-2-inferred.ttl
+Query for ConnectedSegments in ../models/railway-repair-2-inferred.ttl
+Duration for this query:  69.7174448967 seconds
+
+Query for PosLength in ../models/railway-repair-2-inferred.ttl
+Duration for this query:  0.0104649066925 seconds
+
+Query for RouteSensor in ../models/railway-repair-2-inferred.ttl
+Duration for this query:  12.3894631863 seconds
+
+Query for SemaphoreNeighbor in ../models/railway-repair-2-inferred.ttl
+Duration for this query:  535.602211952 seconds
+
+Query for SwitchSensor in ../models/railway-repair-2-inferred.ttl
+Duration for this query:  0.484544038773 seconds
+
+Query for SwitchSet in ../models/railway-repair-2-inferred.ttl
+Duration for this query:  10.498924017 seconds
+
+Parsing URI (file) ../models/railway-repair-4-inferred.ttl
+Query for ConnectedSegments in ../models/railway-repair-4-inferred.ttl
+Duration for this query:  429.555546999 seconds
+
+Query for PosLength in ../models/railway-repair-4-inferred.ttl
+Duration for this query:  0.0284550189972 seconds
+
+Query for RouteSensor in ../models/railway-repair-4-inferred.ttl
+Duration for this query:  67.7661759853 seconds
+
+Query for SemaphoreNeighbor in ../models/railway-repair-4-inferred.ttl
+
