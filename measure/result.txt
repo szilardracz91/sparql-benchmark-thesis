@@ -1,0 +1,5 @@
+Elapsed time during query in seconds: 1 in railway-repair-1-inferred.ttl 
+Elapsed time during query in seconds: 1 in railway-repair-2-inferred.ttl 
+Elapsed time during query in seconds: 2 in railway-repair-4-inferred.ttl 
+Elapsed time during query in seconds: 4 in railway-repair-8-inferred.ttl 
+Elapsed time during query in seconds: 7 in railway-repair-16-inferred.ttl 

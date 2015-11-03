@@ -1,0 +1,138 @@
+@prefix xsd:     <http://www.w3.org/2001/XMLSchema#> .
+@prefix rs:      <http://www.w3.org/2001/sw/DataAccess/tests/result-set#> .
+@prefix rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+[]      rdf:type    rs:ResultSet ;        rs:resultVariable "route" ;
+        rs:resultVariable "sensor" ;
+        rs:resultVariable "swP" ;
+        rs:resultVariable "sw" ;        rs:solution [  rs:binding  [ rs:variable "route"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_3> ];
+                       rs:binding  [ rs:variable "sensor"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_377> ];
+                       rs:binding  [ rs:variable "swP"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_383> ];
+                       rs:binding  [ rs:variable "sw"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_376> ]
+                    ];
+        rs:solution [  rs:binding  [ rs:variable "route"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_3> ];
+                       rs:binding  [ rs:variable "sensor"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_409> ];
+                       rs:binding  [ rs:variable "swP"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_416> ];
+                       rs:binding  [ rs:variable "sw"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_384> ]
+                    ];
+        rs:solution [  rs:binding  [ rs:variable "route"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_3> ];
+                       rs:binding  [ rs:variable "sensor"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_466> ];
+                       rs:binding  [ rs:variable "swP"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_472> ];
+                       rs:binding  [ rs:variable "sw"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_417> ]
+                    ];
+        rs:solution [  rs:binding  [ rs:variable "route"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_534> ];
+                       rs:binding  [ rs:variable "sensor"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_774> ];
+                       rs:binding  [ rs:variable "swP"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_780> ];
+                       rs:binding  [ rs:variable "sw"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_743> ]
+                    ];
+        rs:solution [  rs:binding  [ rs:variable "route"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_534> ];
+                       rs:binding  [ rs:variable "sensor"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_890> ];
+                       rs:binding  [ rs:variable "swP"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_896> ];
+                       rs:binding  [ rs:variable "sw"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_859> ]
+                    ];
+        rs:solution [  rs:binding  [ rs:variable "route"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_898> ];
+                       rs:binding  [ rs:variable "sensor"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_1088> ];
+                       rs:binding  [ rs:variable "swP"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_1094> ];
+                       rs:binding  [ rs:variable "sw"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_1039> ]
+                    ];
+        rs:solution [  rs:binding  [ rs:variable "route"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_1096> ];
+                       rs:binding  [ rs:variable "sensor"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_1147> ];
+                       rs:binding  [ rs:variable "swP"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_1153> ];
+                       rs:binding  [ rs:variable "sw"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_1097> ]
+                    ];
+        rs:solution [  rs:binding  [ rs:variable "route"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_1689> ];
+                       rs:binding  [ rs:variable "sensor"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_1753> ];
+                       rs:binding  [ rs:variable "swP"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_1759> ];
+                       rs:binding  [ rs:variable "sw"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_1710> ]
+                    ];
+        rs:solution [  rs:binding  [ rs:variable "route"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_1761> ];
+                       rs:binding  [ rs:variable "sensor"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_2020> ];
+                       rs:binding  [ rs:variable "swP"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_2026> ];
+                       rs:binding  [ rs:variable "sw"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_2019> ]
+                    ];
+        rs:solution [  rs:binding  [ rs:variable "route"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_2512> ];
+                       rs:binding  [ rs:variable "sensor"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_2526> ];
+                       rs:binding  [ rs:variable "swP"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_2532> ];
+                       rs:binding  [ rs:variable "sw"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_2513> ]
+                    ];
+        rs:solution [  rs:binding  [ rs:variable "route"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_2609> ];
+                       rs:binding  [ rs:variable "sensor"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_2769> ];
+                       rs:binding  [ rs:variable "swP"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_2775> ];
+                       rs:binding  [ rs:variable "sw"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_2732> ]
+                    ];
+        rs:solution [  rs:binding  [ rs:variable "route"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_2609> ];
+                       rs:binding  [ rs:variable "sensor"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_2807> ];
+                       rs:binding  [ rs:variable "swP"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_2813> ];
+                       rs:binding  [ rs:variable "sw"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_2776> ]
+                    ];
+        rs:solution [  rs:binding  [ rs:variable "route"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_2925> ];
+                       rs:binding  [ rs:variable "sensor"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_2940> ];
+                       rs:binding  [ rs:variable "swP"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_2946> ];
+                       rs:binding  [ rs:variable "sw"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_2926> ]
+                    ];
+        rs:solution [  rs:binding  [ rs:variable "route"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_3276> ];
+                       rs:binding  [ rs:variable "sensor"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_3330> ];
+                       rs:binding  [ rs:variable "swP"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_3336> ];
+                       rs:binding  [ rs:variable "sw"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_3329> ]
+                    ];
+        rs:solution [  rs:binding  [ rs:variable "route"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_3276> ];
+                       rs:binding  [ rs:variable "sensor"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_3541> ];
+                       rs:binding  [ rs:variable "swP"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_3548> ];
+                       rs:binding  [ rs:variable "sw"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_3528> ]
+                    ];
+        rs:solution [  rs:binding  [ rs:variable "route"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_3276> ];
+                       rs:binding  [ rs:variable "sensor"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_3612> ];
+                       rs:binding  [ rs:variable "swP"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_3618> ];
+                       rs:binding  [ rs:variable "sw"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_3593> ]
+                    ];
+        rs:solution [  rs:binding  [ rs:variable "route"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_3276> ];
+                       rs:binding  [ rs:variable "sensor"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_3760> ];
+                       rs:binding  [ rs:variable "swP"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_3766> ];
+                       rs:binding  [ rs:variable "sw"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_3759> ]
+                    ];
+        rs:solution [  rs:binding  [ rs:variable "route"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_3869> ];
+                       rs:binding  [ rs:variable "sensor"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_3928> ];
+                       rs:binding  [ rs:variable "swP"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_3934> ];
+                       rs:binding  [ rs:variable "sw"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_3878> ]
+                    ];
+        rs:solution [  rs:binding  [ rs:variable "route"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_3869> ];
+                       rs:binding  [ rs:variable "sensor"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_4037> ];
+                       rs:binding  [ rs:variable "swP"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_4043> ];
+                       rs:binding  [ rs:variable "sw"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_3986> ]
+                    ];
+        rs:solution [  rs:binding  [ rs:variable "route"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_3869> ];
+                       rs:binding  [ rs:variable "sensor"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_4101> ];
+                       rs:binding  [ rs:variable "swP"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_4107> ];
+                       rs:binding  [ rs:variable "sw"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_4058> ]
+                    ];
+        rs:solution [  rs:binding  [ rs:variable "route"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_4109> ];
+                       rs:binding  [ rs:variable "sensor"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_4207> ];
+                       rs:binding  [ rs:variable "swP"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_4213> ];
+                       rs:binding  [ rs:variable "sw"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_4200> ]
+                    ];
+        rs:solution [  rs:binding  [ rs:variable "route"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_4109> ];
+                       rs:binding  [ rs:variable "sensor"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_4245> ];
+                       rs:binding  [ rs:variable "swP"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_4251> ];
+                       rs:binding  [ rs:variable "sw"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_4214> ]
+                    ];
+        rs:solution [  rs:binding  [ rs:variable "route"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_4407> ];
+                       rs:binding  [ rs:variable "sensor"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_4829> ];
+                       rs:binding  [ rs:variable "swP"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_4835> ];
+                       rs:binding  [ rs:variable "sw"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_4804> ]
+                    ];
+        rs:solution [  rs:binding  [ rs:variable "route"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_4874> ];
+                       rs:binding  [ rs:variable "sensor"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_5026> ];
+                       rs:binding  [ rs:variable "swP"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_5032> ];
+                       rs:binding  [ rs:variable "sw"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_4975> ]
+                    ];
+        rs:solution [  rs:binding  [ rs:variable "route"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_4874> ];
+                       rs:binding  [ rs:variable "sensor"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_5181> ];
+                       rs:binding  [ rs:variable "swP"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_5187> ];
+                       rs:binding  [ rs:variable "sw"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_5149> ]
+                    ];
+        rs:solution [  rs:binding  [ rs:variable "route"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_4874> ];
+                       rs:binding  [ rs:variable "sensor"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_5389> ];
+                       rs:binding  [ rs:variable "swP"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_5395> ];
+                       rs:binding  [ rs:variable "sw"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_5370> ]
+                    ];
+ .
