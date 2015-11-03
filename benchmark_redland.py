@@ -52,13 +52,13 @@ while (size<=config["maxsize"]):
       end_time=time.time()-start_time
       print "Duration for this query: ",end_time,"seconds\n"
 
-      #for results in result:
-      #  print "{"
-      #  for k in results:
-      #    print "  "+k+" = "+str(results[k])
-      #  print "}"
-      #print "Query for",query,"ended\n"
-      #print "Duration for this query: ",end_time,"seconds\n"
+      for results in result:
+        print "{"
+        for k in results:
+          print "  "+k+" = "+str(results[k])
+        print "}"
+      print "Query for",query,"ended\n"
+      print "Duration for this query: ",end_time,"seconds\n"
     size=size*2
 
     # Use any rdf/xml parser that is available
