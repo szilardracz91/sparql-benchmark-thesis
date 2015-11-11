@@ -1,0 +1,43 @@
+@prefix xsd:     <http://www.w3.org/2001/XMLSchema#> .
+@prefix rs:      <http://www.w3.org/2001/sw/DataAccess/tests/result-set#> .
+@prefix rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+[]      rdf:type    rs:ResultSet ;        rs:resultVariable "sensor" ;
+        rs:resultVariable "segment1" ;
+        rs:resultVariable "segment2" ;
+        rs:resultVariable "segment3" ;
+        rs:resultVariable "segment4" ;
+        rs:resultVariable "segment5" ;
+        rs:resultVariable "segment6" ;        rs:solution [  rs:binding  [ rs:variable "sensor"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_409> ];
+                       rs:binding  [ rs:variable "segment1"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_410> ];
+                       rs:binding  [ rs:variable "segment2"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_411> ];
+                       rs:binding  [ rs:variable "segment3"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_412> ];
+                       rs:binding  [ rs:variable "segment4"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_413> ];
+                       rs:binding  [ rs:variable "segment5"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_414> ];
+                       rs:binding  [ rs:variable "segment6"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_415> ]
+                    ];
+        rs:solution [  rs:binding  [ rs:variable "sensor"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_656> ];
+                       rs:binding  [ rs:variable "segment1"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_657> ];
+                       rs:binding  [ rs:variable "segment2"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_658> ];
+                       rs:binding  [ rs:variable "segment3"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_659> ];
+                       rs:binding  [ rs:variable "segment4"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_660> ];
+                       rs:binding  [ rs:variable "segment5"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_661> ];
+                       rs:binding  [ rs:variable "segment6"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_662> ]
+                    ];
+        rs:solution [  rs:binding  [ rs:variable "sensor"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_711> ];
+                       rs:binding  [ rs:variable "segment1"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_712> ];
+                       rs:binding  [ rs:variable "segment2"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_713> ];
+                       rs:binding  [ rs:variable "segment3"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_714> ];
+                       rs:binding  [ rs:variable "segment4"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_715> ];
+                       rs:binding  [ rs:variable "segment5"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_716> ];
+                       rs:binding  [ rs:variable "segment6"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_717> ]
+                    ];
+        rs:solution [  rs:binding  [ rs:variable "sensor"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_1121> ];
+                       rs:binding  [ rs:variable "segment1"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_1122> ];
+                       rs:binding  [ rs:variable "segment2"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_1123> ];
+                       rs:binding  [ rs:variable "segment3"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_1124> ];
+                       rs:binding  [ rs:variable "segment4"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_1125> ];
+                       rs:binding  [ rs:variable "segment5"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_1126> ];
+                       rs:binding  [ rs:variable "segment6"; rs:value    <http://www.semanticweb.org/ontologies/2015/trainbenchmark#_1127> ]
+                    ];
+ .
