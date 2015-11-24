@@ -1,31 +1,271 @@
 CaseName	Iteration	MetricName	MetricValue	PhaseName	RundIndex	Scenario	Sequence	Size	Tool
-ConnectedSegments	1	Time	11537972927.093506	Read + Check	1	Repair	1	1	Redland
-PosLength	1	Time	1067548513.4124756	Read + Check	1	Repair	1	1	Redland
-RouteSensor	1	Time	995071172.7142334	Read + Check	1	Repair	1	1	Redland
-SemaphoreNeighbor	1	Time	1146709680.557251	Read + Check	1	Repair	1	1	Redland
-SwitchSensor	1	Time	1130212783.8134766	Read + Check	1	Repair	1	1	Redland
-SwitchSet	1	Time	906203985.2142334	Read + Check	1	Repair	1	1	Redland
-ConnectedSegments	1	Time	2031513690.9484863	Read + Check	1	Repair	1	2	Redland
-PosLength	1	Time	1639791011.8103027	Read + Check	1	Repair	1	2	Redland
-RouteSensor	1	Time	1718736171.722412	Read + Check	1	Repair	1	2	Redland
-SemaphoreNeighbor	1	Time	1944537639.61792	Read + Check	1	Repair	1	2	Redland
-SwitchSensor	1	Time	1607081651.687622	Read + Check	1	Repair	1	2	Redland
-SwitchSet	1	Time	1178369522.0947266	Read + Check	1	Repair	1	2	Redland
-ConnectedSegments	1	Time	3513912439.3463135	Read + Check	1	Repair	1	4	Redland
-PosLength	1	Time	2843362331.390381	Read + Check	1	Repair	1	4	Redland
-RouteSensor	1	Time	2527814388.2751465	Read + Check	1	Repair	1	4	Redland
-SemaphoreNeighbor	1	Time	3458900451.6601562	Read + Check	1	Repair	1	4	Redland
-SwitchSensor	1	Time	3096303462.9821777	Read + Check	1	Repair	1	4	Redland
-SwitchSet	1	Time	2128302574.1577148	Read + Check	1	Repair	1	4	Redland
-ConnectedSegments	1	Time	8136014223.098755	Read + Check	1	Repair	1	8	Redland
-PosLength	1	Time	4452013254.165649	Read + Check	1	Repair	1	8	Redland
-RouteSensor	1	Time	5377857208.251953	Read + Check	1	Repair	1	8	Redland
-SemaphoreNeighbor	1	Time	7010689496.994019	Read + Check	1	Repair	1	8	Redland
-SwitchSensor	1	Time	12156861066.818237	Read + Check	1	Repair	1	8	Redland
-SwitchSet	1	Time	7737983942.03186	Read + Check	1	Repair	1	8	Redland
-ConnectedSegments	1	Time	14545061826.705933	Read + Check	1	Repair	1	16	Redland
-PosLength	1	Time	10951834201.812744	Read + Check	1	Repair	1	16	Redland
-RouteSensor	1	Time	16369402170.181274	Read + Check	1	Repair	1	16	Redland
-SemaphoreNeighbor	1	Time	17063719034.194946	Read + Check	1	Repair	1	16	Redland
-SwitchSensor	1	Time	70518463134.76562	Read + Check	1	Repair	1	16	Redland
-SwitchSet	1	Time	18727835655.212402	Read + Check	1	Repair	1	16	Redland
+ConnectedSegments	1	Time	766464949	Read	1	batch	1	1	INSTANS
+ConnectedSegments	1	Time	97514868	Check	1	batch	1	1	INSTANS
+ConnectedSegments	1	Matches	0	Check	1	batch	1	1	INSTANS
+PosLength	1	Time	718292952	Read	1	batch	1	1	INSTANS
+PosLength	1	Time	97510099	Check	1	batch	1	1	INSTANS
+PosLength	1	Matches	0	Check	1	batch	1	1	INSTANS
+RouteSensor	1	Time	682404041	Read	1	batch	1	1	INSTANS
+RouteSensor	1	Time	125191927	Check	1	batch	1	1	INSTANS
+RouteSensor	1	Matches	0	Check	1	batch	1	1	INSTANS
+SemaphoreNeighbor	1	Time	854812860	Read	1	batch	1	1	INSTANS
+SemaphoreNeighbor	1	Time	111497879	Check	1	batch	1	1	INSTANS
+SemaphoreNeighbor	1	Matches	0	Check	1	batch	1	1	INSTANS
+SwitchSensor	1	Time	756183863	Read	1	batch	1	1	INSTANS
+SwitchSensor	1	Time	92644930	Check	1	batch	1	1	INSTANS
+SwitchSensor	1	Matches	39	Check	1	batch	1	1	INSTANS
+SwitchSet	1	Time	575227976	Read	1	batch	1	1	INSTANS
+SwitchSet	1	Time	93719959	Check	1	batch	1	1	INSTANS
+SwitchSet	1	Matches	0	Check	1	batch	1	1	INSTANS
+ConnectedSegments	1	Time	1069300890	Read	1	batch	1	2	INSTANS
+ConnectedSegments	1	Time	97795010	Check	1	batch	1	2	INSTANS
+ConnectedSegments	1	Matches	0	Check	1	batch	1	2	INSTANS
+PosLength	1	Time	927365065	Read	1	batch	1	2	INSTANS
+PosLength	1	Time	114653111	Check	1	batch	1	2	INSTANS
+PosLength	1	Matches	0	Check	1	batch	1	2	INSTANS
+RouteSensor	1	Time	1242869854	Read	1	batch	1	2	INSTANS
+RouteSensor	1	Time	105319977	Check	1	batch	1	2	INSTANS
+RouteSensor	1	Matches	0	Check	1	batch	1	2	INSTANS
+SemaphoreNeighbor	1	Time	1424240112	Read	1	batch	1	2	INSTANS
+SemaphoreNeighbor	1	Time	141561985	Check	1	batch	1	2	INSTANS
+SemaphoreNeighbor	1	Matches	0	Check	1	batch	1	2	INSTANS
+SwitchSensor	1	Time	1144193888	Read	1	batch	1	2	INSTANS
+SwitchSensor	1	Time	126595020	Check	1	batch	1	2	INSTANS
+SwitchSensor	1	Matches	67	Check	1	batch	1	2	INSTANS
+SwitchSet	1	Time	1073568821	Read	1	batch	1	2	INSTANS
+SwitchSet	1	Time	104923010	Check	1	batch	1	2	INSTANS
+SwitchSet	1	Matches	0	Check	1	batch	1	2	INSTANS
+ConnectedSegments	1	Time	2514955044	Read	1	batch	1	4	INSTANS
+ConnectedSegments	1	Time	113062143	Check	1	batch	1	4	INSTANS
+ConnectedSegments	1	Matches	0	Check	1	batch	1	4	INSTANS
+PosLength	1	Time	1907320023	Read	1	batch	1	4	INSTANS
+PosLength	1	Time	110483885	Check	1	batch	1	4	INSTANS
+PosLength	1	Matches	0	Check	1	batch	1	4	INSTANS
+RouteSensor	1	Time	2419751167	Read	1	batch	1	4	INSTANS
+RouteSensor	1	Time	95050812	Check	1	batch	1	4	INSTANS
+RouteSensor	1	Matches	0	Check	1	batch	1	4	INSTANS
+SemaphoreNeighbor	1	Time	3003978968	Read	1	batch	1	4	INSTANS
+SemaphoreNeighbor	1	Time	142205954	Check	1	batch	1	4	INSTANS
+SemaphoreNeighbor	1	Matches	0	Check	1	batch	1	4	INSTANS
+SwitchSensor	1	Time	3284357071	Read	1	batch	1	4	INSTANS
+SwitchSensor	1	Time	141914129	Check	1	batch	1	4	INSTANS
+SwitchSensor	1	Matches	174	Check	1	batch	1	4	INSTANS
+SwitchSet	1	Time	2374471903	Read	1	batch	1	4	INSTANS
+SwitchSet	1	Time	102161884	Check	1	batch	1	4	INSTANS
+SwitchSet	1	Matches	0	Check	1	batch	1	4	INSTANS
+ConnectedSegments	1	Time	5063094854	Read	1	batch	1	8	INSTANS
+ConnectedSegments	1	Time	184653044	Check	1	batch	1	8	INSTANS
+ConnectedSegments	1	Matches	0	Check	1	batch	1	8	INSTANS
+PosLength	1	Time	3197154045	Read	1	batch	1	8	INSTANS
+PosLength	1	Time	80352068	Check	1	batch	1	8	INSTANS
+PosLength	1	Matches	0	Check	1	batch	1	8	INSTANS
+RouteSensor	1	Time	3471178055	Read	1	batch	1	8	INSTANS
+RouteSensor	1	Time	81075907	Check	1	batch	1	8	INSTANS
+RouteSensor	1	Matches	0	Check	1	batch	1	8	INSTANS
+SemaphoreNeighbor	1	Time	4288208961	Read	1	batch	1	8	INSTANS
+SemaphoreNeighbor	1	Time	95299006	Check	1	batch	1	8	INSTANS
+SemaphoreNeighbor	1	Matches	0	Check	1	batch	1	8	INSTANS
+SwitchSensor	1	Time	5290404797	Read	1	batch	1	8	INSTANS
+SwitchSensor	1	Time	82633972	Check	1	batch	1	8	INSTANS
+SwitchSensor	1	Matches	337	Check	1	batch	1	8	INSTANS
+SwitchSet	1	Time	2850262880	Read	1	batch	1	8	INSTANS
+SwitchSet	1	Time	88016987	Check	1	batch	1	8	INSTANS
+SwitchSet	1	Matches	0	Check	1	batch	1	8	INSTANS
+ConnectedSegments	1	Time	8374883175	Read	1	batch	1	16	INSTANS
+ConnectedSegments	1	Time	82890034	Check	1	batch	1	16	INSTANS
+ConnectedSegments	1	Matches	0	Check	1	batch	1	16	INSTANS
+PosLength	1	Time	6300635099	Read	1	batch	1	16	INSTANS
+PosLength	1	Time	79379082	Check	1	batch	1	16	INSTANS
+PosLength	1	Matches	0	Check	1	batch	1	16	INSTANS
+RouteSensor	1	Time	7384088039	Read	1	batch	1	16	INSTANS
+RouteSensor	1	Time	77601194	Check	1	batch	1	16	INSTANS
+RouteSensor	1	Matches	0	Check	1	batch	1	16	INSTANS
+SemaphoreNeighbor	1	Time	8873360872	Read	1	batch	1	16	INSTANS
+SemaphoreNeighbor	1	Time	77957153	Check	1	batch	1	16	INSTANS
+SemaphoreNeighbor	1	Matches	0	Check	1	batch	1	16	INSTANS
+SwitchSensor	1	Time	166930421829	Read	1	batch	1	16	INSTANS
+SwitchSensor	1	Time	4942483902	Check	1	batch	1	16	INSTANS
+SwitchSensor	1	Matches	766	Check	1	batch	1	16	INSTANS
+SwitchSet	1	Time	11313719034	Read	1	batch	1	16	INSTANS
+SwitchSet	1	Time	113656044	Check	1	batch	1	16	INSTANS
+SwitchSet	1	Matches	0	Check	1	batch	1	16	INSTANS
+ConnectedSegments	1	Time	901991844	Read	1	inject	1	1	INSTANS
+ConnectedSegments	1	Time	143290043	Check	1	inject	1	1	INSTANS
+ConnectedSegments	1	Matches	4	Check	1	inject	1	1	INSTANS
+PosLength	1	Time	1054637909	Read	1	inject	1	1	INSTANS
+PosLength	1	Time	151125193	Check	1	inject	1	1	INSTANS
+PosLength	1	Matches	0	Check	1	inject	1	1	INSTANS
+RouteSensor	1	Time	1087984800	Read	1	inject	1	1	INSTANS
+RouteSensor	1	Time	135828018	Check	1	inject	1	1	INSTANS
+RouteSensor	1	Matches	2	Check	1	inject	1	1	INSTANS
+SemaphoreNeighbor	1	Time	1253180981	Read	1	inject	1	1	INSTANS
+SemaphoreNeighbor	1	Time	139790058	Check	1	inject	1	1	INSTANS
+SemaphoreNeighbor	1	Matches	1	Check	1	inject	1	1	INSTANS
+SwitchSensor	1	Time	985467196	Read	1	inject	1	1	INSTANS
+SwitchSensor	1	Time	138759136	Check	1	inject	1	1	INSTANS
+SwitchSensor	1	Matches	43	Check	1	inject	1	1	INSTANS
+SwitchSet	1	Time	790591002	Read	1	inject	1	1	INSTANS
+SwitchSet	1	Time	128633022	Check	1	inject	1	1	INSTANS
+SwitchSet	1	Matches	1	Check	1	inject	1	1	INSTANS
+ConnectedSegments	1	Time	1816758871	Read	1	inject	1	2	INSTANS
+ConnectedSegments	1	Time	224571228	Check	1	inject	1	2	INSTANS
+ConnectedSegments	1	Matches	15	Check	1	inject	1	2	INSTANS
+PosLength	1	Time	2200160027	Read	1	inject	1	2	INSTANS
+PosLength	1	Time	171056986	Check	1	inject	1	2	INSTANS
+PosLength	1	Matches	0	Check	1	inject	1	2	INSTANS
+RouteSensor	1	Time	1985327005	Read	1	inject	1	2	INSTANS
+RouteSensor	1	Time	131936789	Check	1	inject	1	2	INSTANS
+RouteSensor	1	Matches	2	Check	1	inject	1	2	INSTANS
+SemaphoreNeighbor	1	Time	3629441977	Read	1	inject	1	2	INSTANS
+SemaphoreNeighbor	1	Time	377772093	Check	1	inject	1	2	INSTANS
+SemaphoreNeighbor	1	Matches	2	Check	1	inject	1	2	INSTANS
+SwitchSensor	1	Time	1688076973	Read	1	inject	1	2	INSTANS
+SwitchSensor	1	Time	90453148	Check	1	inject	1	2	INSTANS
+SwitchSensor	1	Matches	82	Check	1	inject	1	2	INSTANS
+SwitchSet	1	Time	1208893061	Read	1	inject	1	2	INSTANS
+SwitchSet	1	Time	181544065	Check	1	inject	1	2	INSTANS
+SwitchSet	1	Matches	2	Check	1	inject	1	2	INSTANS
+ConnectedSegments	1	Time	3450406790	Read	1	inject	1	4	INSTANS
+ConnectedSegments	1	Time	113104820	Check	1	inject	1	4	INSTANS
+ConnectedSegments	1	Matches	45	Check	1	inject	1	4	INSTANS
+PosLength	1	Time	1936568975	Read	1	inject	1	4	INSTANS
+PosLength	1	Time	104098082	Check	1	inject	1	4	INSTANS
+PosLength	1	Matches	0	Check	1	inject	1	4	INSTANS
+RouteSensor	1	Time	2289073944	Read	1	inject	1	4	INSTANS
+RouteSensor	1	Time	131772995	Check	1	inject	1	4	INSTANS
+RouteSensor	1	Matches	9	Check	1	inject	1	4	INSTANS
+SemaphoreNeighbor	1	Time	3009103060	Read	1	inject	1	4	INSTANS
+SemaphoreNeighbor	1	Time	135138035	Check	1	inject	1	4	INSTANS
+SemaphoreNeighbor	1	Matches	2	Check	1	inject	1	4	INSTANS
+SwitchSensor	1	Time	3047289848	Read	1	inject	1	4	INSTANS
+SwitchSensor	1	Time	136260033	Check	1	inject	1	4	INSTANS
+SwitchSensor	1	Matches	177	Check	1	inject	1	4	INSTANS
+SwitchSet	1	Time	2141210794	Read	1	inject	1	4	INSTANS
+SwitchSet	1	Time	144850969	Check	1	inject	1	4	INSTANS
+SwitchSet	1	Matches	7	Check	1	inject	1	4	INSTANS
+ConnectedSegments	1	Time	6115225077	Read	1	inject	1	8	INSTANS
+ConnectedSegments	1	Time	133316994	Check	1	inject	1	8	INSTANS
+ConnectedSegments	1	Matches	108	Check	1	inject	1	8	INSTANS
+PosLength	1	Time	4707157135	Read	1	inject	1	8	INSTANS
+PosLength	1	Time	137434006	Check	1	inject	1	8	INSTANS
+PosLength	1	Matches	0	Check	1	inject	1	8	INSTANS
+RouteSensor	1	Time	5354711056	Read	1	inject	1	8	INSTANS
+RouteSensor	1	Time	124861002	Check	1	inject	1	8	INSTANS
+RouteSensor	1	Matches	19	Check	1	inject	1	8	INSTANS
+SemaphoreNeighbor	1	Time	6413403988	Read	1	inject	1	8	INSTANS
+SemaphoreNeighbor	1	Time	134571075	Check	1	inject	1	8	INSTANS
+SemaphoreNeighbor	1	Matches	6	Check	1	inject	1	8	INSTANS
+SwitchSensor	1	Time	8757747889	Read	1	inject	1	8	INSTANS
+SwitchSensor	1	Time	142995834	Check	1	inject	1	8	INSTANS
+SwitchSensor	1	Matches	374	Check	1	inject	1	8	INSTANS
+SwitchSet	1	Time	4317876101	Read	1	inject	1	8	INSTANS
+SwitchSet	1	Time	139904022	Check	1	inject	1	8	INSTANS
+SwitchSet	1	Matches	18	Check	1	inject	1	8	INSTANS
+ConnectedSegments	1	Time	11549930096	Read	1	inject	1	16	INSTANS
+ConnectedSegments	1	Time	130946875	Check	1	inject	1	16	INSTANS
+ConnectedSegments	1	Matches	204	Check	1	inject	1	16	INSTANS
+PosLength	1	Time	8984280109	Read	1	inject	1	16	INSTANS
+PosLength	1	Time	135704041	Check	1	inject	1	16	INSTANS
+PosLength	1	Matches	0	Check	1	inject	1	16	INSTANS
+RouteSensor	1	Time	10599379063	Read	1	inject	1	16	INSTANS
+RouteSensor	1	Time	134049892	Check	1	inject	1	16	INSTANS
+RouteSensor	1	Matches	26	Check	1	inject	1	16	INSTANS
+SemaphoreNeighbor	1	Time	12405945063	Read	1	inject	1	16	INSTANS
+SemaphoreNeighbor	1	Time	130517006	Check	1	inject	1	16	INSTANS
+SemaphoreNeighbor	1	Matches	10	Check	1	inject	1	16	INSTANS
+SwitchSensor	1	Time	29404181004	Read	1	inject	1	16	INSTANS
+SwitchSensor	1	Time	2894132137	Check	1	inject	1	16	INSTANS
+SwitchSensor	1	Matches	728	Check	1	inject	1	16	INSTANS
+SwitchSet	1	Time	8570794106	Read	1	inject	1	16	INSTANS
+SwitchSet	1	Time	128770113	Check	1	inject	1	16	INSTANS
+SwitchSet	1	Matches	43	Check	1	inject	1	16	INSTANS
+ConnectedSegments	1	Time	1032747030	Read	1	repair	1	1	INSTANS
+ConnectedSegments	1	Time	125383139	Check	1	repair	1	1	INSTANS
+ConnectedSegments	1	Matches	4	Check	1	repair	1	1	INSTANS
+PosLength	1	Time	835023165	Read	1	repair	1	1	INSTANS
+PosLength	1	Time	151628971	Check	1	repair	1	1	INSTANS
+PosLength	1	Matches	0	Check	1	repair	1	1	INSTANS
+RouteSensor	1	Time	950286150	Read	1	repair	1	1	INSTANS
+RouteSensor	1	Time	124866962	Check	1	repair	1	1	INSTANS
+RouteSensor	1	Matches	7	Check	1	repair	1	1	INSTANS
+SemaphoreNeighbor	1	Time	1058577776	Read	1	repair	1	1	INSTANS
+SemaphoreNeighbor	1	Time	132821083	Check	1	repair	1	1	INSTANS
+SemaphoreNeighbor	1	Matches	1	Check	1	repair	1	1	INSTANS
+SwitchSensor	1	Time	872748137	Read	1	repair	1	1	INSTANS
+SwitchSensor	1	Time	125873089	Check	1	repair	1	1	INSTANS
+SwitchSensor	1	Matches	43	Check	1	repair	1	1	INSTANS
+SwitchSet	1	Time	829884052	Read	1	repair	1	1	INSTANS
+SwitchSet	1	Time	125640154	Check	1	repair	1	1	INSTANS
+SwitchSet	1	Matches	2	Check	1	repair	1	1	INSTANS
+ConnectedSegments	1	Time	1650969028	Read	1	repair	1	2	INSTANS
+ConnectedSegments	1	Time	140469074	Check	1	repair	1	2	INSTANS
+ConnectedSegments	1	Matches	15	Check	1	repair	1	2	INSTANS
+PosLength	1	Time	1281669855	Read	1	repair	1	2	INSTANS
+PosLength	1	Time	128176212	Check	1	repair	1	2	INSTANS
+PosLength	1	Matches	0	Check	1	repair	1	2	INSTANS
+RouteSensor	1	Time	1410219193	Read	1	repair	1	2	INSTANS
+RouteSensor	1	Time	119066954	Check	1	repair	1	2	INSTANS
+RouteSensor	1	Matches	9	Check	1	repair	1	2	INSTANS
+SemaphoreNeighbor	1	Time	1548789024	Read	1	repair	1	2	INSTANS
+SemaphoreNeighbor	1	Time	121151924	Check	1	repair	1	2	INSTANS
+SemaphoreNeighbor	1	Matches	1	Check	1	repair	1	2	INSTANS
+SwitchSensor	1	Time	1383337021	Read	1	repair	1	2	INSTANS
+SwitchSensor	1	Time	124693155	Check	1	repair	1	2	INSTANS
+SwitchSensor	1	Matches	82	Check	1	repair	1	2	INSTANS
+SwitchSet	1	Time	1154134989	Read	1	repair	1	2	INSTANS
+SwitchSet	1	Time	126700878	Check	1	repair	1	2	INSTANS
+SwitchSet	1	Matches	4	Check	1	repair	1	2	INSTANS
+ConnectedSegments	1	Time	2861182928	Read	1	repair	1	4	INSTANS
+ConnectedSegments	1	Time	124541044	Check	1	repair	1	4	INSTANS
+ConnectedSegments	1	Matches	45	Check	1	repair	1	4	INSTANS
+PosLength	1	Time	2226202965	Read	1	repair	1	4	INSTANS
+PosLength	1	Time	121319771	Check	1	repair	1	4	INSTANS
+PosLength	1	Matches	0	Check	1	repair	1	4	INSTANS
+RouteSensor	1	Time	2503567934	Read	1	repair	1	4	INSTANS
+RouteSensor	1	Time	123598099	Check	1	repair	1	4	INSTANS
+RouteSensor	1	Matches	26	Check	1	repair	1	4	INSTANS
+SemaphoreNeighbor	1	Time	3054119825	Read	1	repair	1	4	INSTANS
+SemaphoreNeighbor	1	Time	152508974	Check	1	repair	1	4	INSTANS
+SemaphoreNeighbor	1	Matches	0	Check	1	repair	1	4	INSTANS
+SwitchSensor	1	Time	3135658026	Read	1	repair	1	4	INSTANS
+SwitchSensor	1	Time	125959873	Check	1	repair	1	4	INSTANS
+SwitchSensor	1	Matches	177	Check	1	repair	1	4	INSTANS
+SwitchSet	1	Time	2149666071	Read	1	repair	1	4	INSTANS
+SwitchSet	1	Time	120833874	Check	1	repair	1	4	INSTANS
+SwitchSet	1	Matches	11	Check	1	repair	1	4	INSTANS
+ConnectedSegments	1	Time	6137830019	Read	1	repair	1	8	INSTANS
+ConnectedSegments	1	Time	126399040	Check	1	repair	1	8	INSTANS
+ConnectedSegments	1	Matches	108	Check	1	repair	1	8	INSTANS
+PosLength	1	Time	4879632950	Read	1	repair	1	8	INSTANS
+PosLength	1	Time	144644022	Check	1	repair	1	8	INSTANS
+PosLength	1	Matches	0	Check	1	repair	1	8	INSTANS
+RouteSensor	1	Time	5616441011	Read	1	repair	1	8	INSTANS
+RouteSensor	1	Time	122327805	Check	1	repair	1	8	INSTANS
+RouteSensor	1	Matches	44	Check	1	repair	1	8	INSTANS
+SemaphoreNeighbor	1	Time	6382591963	Read	1	repair	1	8	INSTANS
+SemaphoreNeighbor	1	Time	128551960	Check	1	repair	1	8	INSTANS
+SemaphoreNeighbor	1	Matches	5	Check	1	repair	1	8	INSTANS
+SwitchSensor	1	Time	8772224188	Read	1	repair	1	8	INSTANS
+SwitchSensor	1	Time	129174948	Check	1	repair	1	8	INSTANS
+SwitchSensor	1	Matches	374	Check	1	repair	1	8	INSTANS
+SwitchSet	1	Time	4494372845	Read	1	repair	1	8	INSTANS
+SwitchSet	1	Time	136411190	Check	1	repair	1	8	INSTANS
+SwitchSet	1	Matches	24	Check	1	repair	1	8	INSTANS
+ConnectedSegments	1	Time	11029909134	Read	1	repair	1	16	INSTANS
+ConnectedSegments	1	Time	123212099	Check	1	repair	1	16	INSTANS
+ConnectedSegments	1	Matches	204	Check	1	repair	1	16	INSTANS
+PosLength	1	Time	8851332903	Read	1	repair	1	16	INSTANS
+PosLength	1	Time	127388000	Check	1	repair	1	16	INSTANS
+PosLength	1	Matches	0	Check	1	repair	1	16	INSTANS
+RouteSensor	1	Time	10540719986	Read	1	repair	1	16	INSTANS
+RouteSensor	1	Time	137211084	Check	1	repair	1	16	INSTANS
+RouteSensor	1	Matches	70	Check	1	repair	1	16	INSTANS
+SemaphoreNeighbor	1	Time	12188863993	Read	1	repair	1	16	INSTANS
+SemaphoreNeighbor	1	Time	136219978	Check	1	repair	1	16	INSTANS
+SemaphoreNeighbor	1	Matches	8	Check	1	repair	1	16	INSTANS
+SwitchSensor	1	Time	26645656109	Read	1	repair	1	16	INSTANS
+SwitchSensor	1	Time	1768287182	Check	1	repair	1	16	INSTANS
+SwitchSensor	1	Matches	728	Check	1	repair	1	16	INSTANS
+SwitchSet	1	Time	8414784193	Read	1	repair	1	16	INSTANS
+SwitchSet	1	Time	122100115	Check	1	repair	1	16	INSTANS
+SwitchSet	1	Matches	52	Check	1	repair	1	16	INSTANS
